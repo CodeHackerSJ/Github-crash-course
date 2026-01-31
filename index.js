@@ -11,4 +11,6 @@ const dob = '24/03/2005'
     return age>=18
  }
 
- 
+function addyes(){
+    console.log('Yes good hai sab')
+}
