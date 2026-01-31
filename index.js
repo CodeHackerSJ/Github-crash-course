@@ -1,4 +1,4 @@
-const age = 24;
+const age = 21;
 const name = 'Shivam Kumar Jha'
 const dob = '24/03/2005'
 
