@@ -17,4 +17,5 @@ function addyes(){
 
 function newfeatureAdd(){
     console.log('New feature is added')
+    console.log('New feature is addedA done')
 }
