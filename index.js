@@ -14,3 +14,7 @@ const dob = '24/03/2005'
 function addyes(){
     console.log('Yes good hai sab')
 }
+
+function newfeatureAdd(){
+    console.log('New feature is added')
+}
