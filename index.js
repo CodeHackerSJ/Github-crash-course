@@ -3,7 +3,12 @@ const name = 'Shivam Kumar Jha'
 const dob = '24/03/2005'
 
  function sayName(){
+  
     console.log('My name is: '+name)
+    console.log('My realname is: '+name)
+
+
+  
  }
 
 
